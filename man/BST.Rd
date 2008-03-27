@@ -8,6 +8,8 @@ This method instanciates class \code{BST}.
 aBST = BST()
 }
 \examples{
+.jinit()
+.jpackage("Containers")
 aBST = BST()                     # Instanciate a BST.
 aBST$insert(5)                   # Insert a few elements.
 aBST$insert(2)
